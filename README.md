@@ -1,11 +1,11 @@
 # Olá, eu sou o Breno!
 Tenho 24 anos e sou Iniciante em Programação.
 
-Estudante focado em **Lógica de Programação** e **Python**, construindo a base para me especializar como **Analista / Cientista de Dados**. 
+Estudante focado em **Lógica de Programação** e **Python**, construindo a base para me especializar como **Desenvolvedor Backend**. 
 
 ### Tecnologias e Estudos Atuais:
 - 🐍 Lógica de Programação & Algoritmos
-- 📊 Fundamentos para Análise de Dados
+- 📊 Fundamentos para Desenvolvimento Backend
 
 ### Stacks
 <img 
